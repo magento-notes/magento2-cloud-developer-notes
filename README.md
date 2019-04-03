@@ -29,5 +29,14 @@ Magento 2 Certified Professional Cloud Developer
 + [Magento 2 Certified Professional Cloud Developer](https://u.magento.com/magento-certified-professional-cloud-developer)
 + [Magento 2.3 Cloud Documentation](https://devdocs.magento.com/guides/v2.3/cloud/bk-cloud.html)
 
-## 3.1. Other notes for Magento 2 certification
+## 2.1. Other notes for Magento 2 certification
 + [Preparation notes for Magento 2 Certified Professional Developer exam](https://github.com/magento-notes/magento2-exam-notes)
+
+## 2.3. Magento Cloud links 
++ [Cloud Project](https://cloud.magento.com/cloud/project/view/)
++ [Integration Environment](https://magento.cloud)
++ [Help center / Support](https://support.magento.com/hc/en-us/requests)
++ [Status](https://status.magento.cloud/)
++ [CLA](https://magento.com/legal/terms/cloud-sla)
++ [Magento Cloud Repository](https://github.com/magento/magento-cloud)
++ [Fastly tester](https://magento-tester.global.ssl.fastly.net/magento-tester/)
