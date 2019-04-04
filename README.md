@@ -40,4 +40,5 @@ Magento 2 Certified Professional Cloud Developer
 + [CLA](https://magento.com/legal/terms/cloud-sla)
 + [Magento Cloud Repository](https://github.com/magento/magento-cloud)
 + [Ece-Tools Repository](https://github.com/magento/ece-tools)
++ [Ece-Tools / .magento.env.yaml sample](https://github.com/magento/ece-tools/blob/2002.0.17/dist/.magento.env.yaml)
 + [Fastly tester](https://magento-tester.global.ssl.fastly.net/magento-tester/)
