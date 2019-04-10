@@ -42,3 +42,4 @@ Magento 2 Certified Professional Cloud Developer
 + [Ece-Tools Repository](https://github.com/magento/ece-tools)
 + [Ece-Tools / .magento.env.yaml sample](https://github.com/magento/ece-tools/blob/2002.0.17/dist/.magento.env.yaml)
 + [Fastly tester](https://magento-tester.global.ssl.fastly.net/magento-tester/)
++ [magento-cloud list](https://gist.github.com/simpleadm/69c3ef764fdd637a109bbaed8420d714)
